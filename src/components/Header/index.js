@@ -1,7 +1,4 @@
 import React, { Component } from 'react'
-import {
-	Layout
-} from 'element-react'
 
 import './index.css'
 
@@ -10,6 +7,7 @@ class Header extends Component
 	pageName= 'page-front-header';
 	
 	render(){
+
 		return (
 			<div className={this.pageName}>
 				<div className="container">

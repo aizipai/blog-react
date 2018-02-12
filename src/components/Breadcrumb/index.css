@@ -1,0 +1,13 @@
+.page-front-Breadcrumb{
+	height: 38px;
+  margin: 22px 0 20px;
+  padding: 0 25px;
+  line-height: 38px;
+  font-size: 14px;
+  box-shadow: 0 0 8px #444;
+}
+.bread-item{
+	height: 38px;
+	line-height: 38px;
+	font-size: 14px;
+}

@@ -1,0 +1,28 @@
+.page-front-nav{
+	height: 40px;
+    background-color: #444;
+    box-shadow: 0 0 3px #3a3a3a;
+    color: #fff;
+}
+.page-front-nav a{
+	display: inline-block;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 40px;
+    text-decoration: none;
+    transition:all .3s ease ;
+}
+.page-front-nav a:hover{
+	color: #2197ef;
+	text-decoration: underline;
+	background-color: #333;
+}
+.page-front-nav a.active{
+	color: #2197ef;
+	text-decoration: underline;
+	background-color: #333;
+}
