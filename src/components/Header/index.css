@@ -1,0 +1,15 @@
+
+.page-front-header{
+	height: 110px;
+	background: linear-gradient(#444,#666);
+	color:  #fff;
+}
+.blog-name{
+	padding-top: 15px;
+	font-weight: 500;
+	font-size: 38px;
+}
+.blog-name span:first-child{
+	margin-right:  1px;
+	color: #2197ef;
+}
