@@ -1,0 +1,9 @@
+.admin-manage-article{}
+.admin-manage-article .article-item{
+	border-bottom: 1px solid #ddd;
+	display: flex;
+	align-items: center;
+}
+.admin-manage-article  .article-info span{
+	margin-right: 30px;
+}
